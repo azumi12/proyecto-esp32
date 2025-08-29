@@ -779,10 +779,4 @@ Las características de tiempo real, alertas automáticas y visualización inter
 
 Este proyecto sirve como base sólida para sistemas IoT más complejos y puede extenderse fácilmente para incluir funcionalidades adicionales como notificaciones push, integración con servicios en la nube, o análisis avanzado de datos mediante machine learning.
 
----
-
-**Desarrollado por:** Manus AI  
-**Versión:** 2.0.0  
-**Fecha:** Agosto 2024  
-**Licencia:** MIT
 
